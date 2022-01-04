@@ -1,2 +1,4 @@
-# html5_e_css3_parte1
-HTML5 e CSS3 parte 1: A primeira página da Web - Curso da Alura.
+<img src="html.png" align="left">
+<h1>Curso de HTML5 e CSS3 - Parte 1 - Alura</h1>
+
+<h2>HTML5 e CSS3 parte 1: A primeira página da Web - Curso da Alura.</h2>
